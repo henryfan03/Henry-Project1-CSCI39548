@@ -4,6 +4,11 @@ body {
     text-align: center;
 }
 
+.color-switch {
+    background-color: #696969;
+    color: #6495ED;
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #333;
